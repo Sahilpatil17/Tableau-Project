@@ -59,4 +59,4 @@ Some important findings from the analysis:
 ---
 
 ## 📸 Dashboard Preview
-![Dashobard Screen Short](Tableau-Project/Airbnb Project /Picture/Dashboard 1.png)
+![](Airbnb Project/Picture.png)
