@@ -59,4 +59,4 @@ Some important findings from the analysis:
 ---
 
 ## 📸 Dashboard Preview
-![](Tableau-Project/Airbnb_Project/Pictures/Airbnb_Dashboard.png)
+<img src="https://github.com/Sahilpatil17/Tableau-Project/blob/main/Airbnb_Project%20/Pictures/Airbnb_Dashboard.png" width = 1000 alt="Dashboard Image">
